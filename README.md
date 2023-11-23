@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
+![MasterHead](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
